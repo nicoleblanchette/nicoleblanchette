@@ -4,20 +4,15 @@
 - Also, all the buttons in my tech stack are made by me.
 - All my profiles and contacts are linked on the left side of my profile.
 ## Languages
-<style>
-  .button {
-    height: 40px
-  }
-</style>
-<img src="./assets/js.png" class="button" alt="JavaScript">
-<img src="./assets/py.png" class="button" alt="Python">
-<img src="./assets/css.png" class="button" alt="CSS"> 
-<img src="./assets/text4639.png" class="button" alt="HTML">
-<img src="./assets/bash.png" class="button" alt="bash">
+<img src="./assets/js.png" height="40px" alt="JavaScript">
+<img src="./assets/py.png" height="40px" alt="Python">
+<img src="./assets/css.png" height="40px" alt="CSS"> 
+<img src="./assets/text4639.png" height="40px" alt="HTML">
+<img src="./assets/bash.png" height="40px" alt="bash">
  
 ### More of my tech stack...
-<img src="./assets/node.png" class="button" alt="node dot js">
-<img src="./assets/vite.svg" class="button" alt="vite">
+<img src="./assets/node.png" height="40px" alt="node dot js">
+<!-- <img src="./assets/vite.svg" height="40px" alt="vite"> -->
 
 ## Organizations
 [cc-nicole](https://github.com/cc-nicole) | My off-platform Codecademy projects  
