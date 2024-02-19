@@ -10,7 +10,7 @@ Welcome!
 **JavaScript** | **HTML** | **CSS** | Python | Bash
 
 ### More of my tech stack...
-**Node.js** | **Vite** | **Git** | VSCode | Figma | Inkscape | OOP
+**Node.js** | **Vite** | **Git** | React | VSCode | Figma | Inkscape | OOP
 
 ## Organizations
 
