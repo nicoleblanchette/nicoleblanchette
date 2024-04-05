@@ -15,7 +15,7 @@ Welcome!
 ## Organizations
 
 [cc-nicole](https://github.com/cc-nicole) | My off-platform Codecademy projects  
-[NaDa](https://github.com/NaDa-nasa-viewer) | A group project to view NASA images
+[NaDa](https://github.com/NaDa-nasa-viewer) | A group project to view NASA images  
 [job-spicy](https://github.com/job-spicy) | Remote job board
 
 <!-- ## Statistics -->
