@@ -10,12 +10,13 @@ Welcome!
 **JavaScript** | **HTML** | **CSS** | Python | Bash
 
 ### More of my tech stack...
-**Node.js** | **Vite** | **Git** | React | VSCode | Figma | Inkscape | OOP
+**Node.js** | **Vite** | **Git** | **React** | **Express** | VSCode | Figma | Inkscape | OOP
 
 ## Organizations
 
 [cc-nicole](https://github.com/cc-nicole) | My off-platform Codecademy projects  
 [NaDa](https://github.com/NaDa-nasa-viewer) | A group project to view NASA images
+[job-spicy](https://github.com/job-spicy) | Remote job board
 
 <!-- ## Statistics -->
 <!-- ## More -->
