@@ -1,9 +1,7 @@
 # Nicole Blanchette
-full stack web dev <3
+Full-Stack Web Developer ✨
 
-<!-- <img align="left" src="https://66.media.tumblr.com/2bddc7829ab63c507b24f2806d202b50/tumblr_p8sjxwuNhL1uupzkho1_1280.png" height="100px"> -->
-
-## tech stack
+## Tech Stack
 ```js
 // elements in "double quotes" indicate high proficiency
 {
