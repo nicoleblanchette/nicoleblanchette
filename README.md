@@ -15,7 +15,7 @@ other: [Python, Bash]
 ```
 ## Organizations
 
-[cc-nicole](https://github.com/cc-nicole) | My off-platform Codecademy projects  
+[ENiA-collective](https://github.com/ENiA-collective) | Supports an application to give and receive free clothing in your area  
 [NaDa](https://github.com/NaDa-nasa-viewer) | A group project to view NASA images  
 [job-spicy](https://github.com/job-spicy) | Remote job board
 
