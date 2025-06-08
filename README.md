@@ -3,7 +3,7 @@ Full-Stack Web Developer ✨
 
 ## Tech Stack
 ```js
-// elements in "double quotes" indicate high proficiency
+
 {
 Languages: [JavaScript, CSS, HTML, C# , Python, Bash],
 Databases: [MongoDB Atlas, PostgreSQL],
