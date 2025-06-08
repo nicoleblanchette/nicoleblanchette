@@ -5,10 +5,12 @@ Full-Stack Web Developer ✨
 ```js
 // elements in "double quotes" indicate high proficiency
 {
-frontend: ["React", "JavaScript", "HTML", "CSS", "TailwindCSS", Bootstrap],
-backend: [".NET C#", "Express", "PostgreSQL", MongoDB],
-tools: ["Vite", "Git", "VSCode", "Visual Studio", Figma, Inkscape],
-other: [Python, Bash]
+Languages: [JavaScript, CSS, HTML, C# , Python, Bash],
+Databases: [MongoDB Atlas, PostgreSQL],
+Frameworks: [React, .NET, Vite],
+Libraries: [Express, Knex.js, Zustand, TanStack Query, TailwindCSS],
+Testing: [ Jest, Cypress],
+Tools: [Git, Figma, Axe DevTools, CloudBees CI, Jenkins, Jira, GitHub Copilot, Snyk, Dynatrace RUM, Elastic]
 }
 ```
 ## Organizations
