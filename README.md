@@ -7,7 +7,7 @@ Full-Stack Web Developer ✨
 {
 Languages: [JavaScript, CSS, HTML, TypeScript, C# , Python, Bash],
 Databases: [MongoDB Atlas, PostgreSQL],
-Frameworks: [React, .NET, Vite],
+Frameworks: [React, .NET, Vite, Next.js],
 Libraries: [Express, Knex.js, Zustand, TanStack Query, TailwindCSS],
 Testing: [Jest, Cypress, NUnit],
 Tools: [Git, Figma, Axe DevTools, CloudBees CI, Jenkins, Jira, GitHub Copilot, Snyk, Dynatrace RUM, Elastic]
